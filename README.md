@@ -1,6 +1,6 @@
 # app_imc
 
-A new Flutter project.
+App criado com Flutter para cálculo de IMC.
 
 ## Getting Started
 
